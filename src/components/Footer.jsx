@@ -33,17 +33,7 @@ export const Footer = () => {
                 </aside>
             </footer>
 
-            {/* <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
-                <div class="md:flex">
-                    <div class="p-8">
-                        <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">My Portfolio</div>
-                        <p class="mt-2 text-gray-500">Click the button below to download my CV:</p>
-                        <div class="mt-4">
-                            <a href="path/to/my_cv.pdf" download="My_CV.pdf" class="btn btn-primary">Download my CV</a>
-                        </div>
-                    </div>
-                </div>
-            </div> */}
+            
         </>
     )
 }
