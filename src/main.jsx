@@ -14,7 +14,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
       <App />
       <Footer />
-      {/* <audio src={sound} autoPlay loop /> */}
+      <audio src={sound} autoPlay loop />
     </BrowserRouter>
   </React.StrictMode>,
 )

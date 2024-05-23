@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-      <audio src={sound} autoPlay loop />
+      {/* <audio src={sound} autoPlay loop /> */}
 
       <Routes>
 
